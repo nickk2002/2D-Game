@@ -1,0 +1,5521 @@
+fileFormatVersion: 2
+guid: 1fe2a887c15d78a44bf35550884f99df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3076008712327471908
+    second: cave_04_0
+  - first:
+      213: -8028575911886230932
+    second: cave_04_1
+  - first:
+      213: 2953380543407463007
+    second: cave_04_2
+  - first:
+      213: -2320249391096782185
+    second: cave_04_3
+  - first:
+      213: -1144819905835038900
+    second: cave_04_4
+  - first:
+      213: 3325269541086462690
+    second: cave_04_5
+  - first:
+      213: 4580615788711456427
+    second: cave_04_6
+  - first:
+      213: -3888162224245749179
+    second: cave_04_7
+  - first:
+      213: 8323140273851556407
+    second: cave_04_8
+  - first:
+      213: -3601405509379201176
+    second: cave_04_9
+  - first:
+      213: 300895334309393609
+    second: cave_04_10
+  - first:
+      213: 2355297411707229895
+    second: cave_04_11
+  - first:
+      213: -2165343045654268128
+    second: cave_04_12
+  - first:
+      213: 509504273168113796
+    second: cave_04_13
+  - first:
+      213: 162089542251525786
+    second: cave_04_14
+  - first:
+      213: 8738572692697761217
+    second: cave_04_15
+  - first:
+      213: -511272473173901818
+    second: cave_04_16
+  - first:
+      213: 5665611963646346568
+    second: cave_04_17
+  - first:
+      213: -5623628738586140880
+    second: cave_04_18
+  - first:
+      213: 7215036040568918270
+    second: cave_04_19
+  - first:
+      213: 4730285507436294621
+    second: cave_04_20
+  - first:
+      213: -5169517506190409434
+    second: cave_04_21
+  - first:
+      213: 5990416536421203
+    second: cave_04_22
+  - first:
+      213: 2843385973946989543
+    second: cave_04_23
+  - first:
+      213: -4318586425772000475
+    second: cave_04_24
+  - first:
+      213: 7923145217992009330
+    second: cave_04_25
+  - first:
+      213: 7087020852221523024
+    second: cave_04_26
+  - first:
+      213: -9119643729578576458
+    second: cave_04_27
+  - first:
+      213: -946432504699173119
+    second: cave_04_28
+  - first:
+      213: -893628023845680252
+    second: cave_04_29
+  - first:
+      213: -7334362478745403226
+    second: cave_04_30
+  - first:
+      213: 1689187656043686962
+    second: cave_04_31
+  - first:
+      213: 8146239725147130165
+    second: cave_04_32
+  - first:
+      213: 6669217982903814625
+    second: cave_04_33
+  - first:
+      213: -5168589616245070078
+    second: cave_04_34
+  - first:
+      213: -687383123748185158
+    second: cave_04_35
+  - first:
+      213: -6766409328528399684
+    second: cave_04_36
+  - first:
+      213: -7982569494627952950
+    second: cave_04_37
+  - first:
+      213: 3191747662057278342
+    second: cave_04_38
+  - first:
+      213: 4801063678716488081
+    second: cave_04_39
+  - first:
+      213: -2057353529357751404
+    second: cave_04_40
+  - first:
+      213: 6626041604490247732
+    second: cave_04_41
+  - first:
+      213: -6601248088885923379
+    second: cave_04_42
+  - first:
+      213: 1113984321914733900
+    second: cave_04_43
+  - first:
+      213: 2802579057451586892
+    second: cave_04_44
+  - first:
+      213: 7965831648207798811
+    second: cave_04_45
+  - first:
+      213: -6380584559241468612
+    second: cave_04_46
+  - first:
+      213: -8842798352203345737
+    second: cave_04_47
+  - first:
+      213: 3464887159741833700
+    second: cave_04_48
+  - first:
+      213: -6445864169521338222
+    second: cave_04_49
+  - first:
+      213: 7464197166206851148
+    second: cave_04_50
+  - first:
+      213: -8503121576208298630
+    second: cave_04_51
+  - first:
+      213: -7794368927260655096
+    second: cave_04_52
+  - first:
+      213: 5684835859899743534
+    second: cave_04_53
+  - first:
+      213: -6823727053929620954
+    second: cave_04_54
+  - first:
+      213: -2090419414880149938
+    second: cave_04_55
+  - first:
+      213: -8333597598246347491
+    second: cave_04_56
+  - first:
+      213: 1973917725399908732
+    second: cave_04_57
+  - first:
+      213: 8423457779944329410
+    second: cave_04_58
+  - first:
+      213: 2004183170455672804
+    second: cave_04_59
+  - first:
+      213: -7402011519436228323
+    second: cave_04_60
+  - first:
+      213: -6976775607749861712
+    second: cave_04_61
+  - first:
+      213: -7712431089969930160
+    second: cave_04_62
+  - first:
+      213: 6659904669362223046
+    second: cave_04_63
+  - first:
+      213: -1847526192841330951
+    second: cave_04_64
+  - first:
+      213: -883180143994893284
+    second: cave_04_65
+  - first:
+      213: 3572310373342764546
+    second: cave_04_66
+  - first:
+      213: -5991953368643803801
+    second: cave_04_67
+  - first:
+      213: -7074787977832080337
+    second: cave_04_68
+  - first:
+      213: -8934980152244564900
+    second: cave_04_69
+  - first:
+      213: 5114787896547979710
+    second: cave_04_70
+  - first:
+      213: 1326124193409326784
+    second: cave_04_71
+  - first:
+      213: -2049586485719854569
+    second: cave_04_72
+  - first:
+      213: 2200509548870622353
+    second: cave_04_73
+  - first:
+      213: -1711135008866604414
+    second: cave_04_74
+  - first:
+      213: 2107075498446196225
+    second: cave_04_75
+  - first:
+      213: 2833940294904879850
+    second: cave_04_76
+  - first:
+      213: -3290066811619257446
+    second: cave_04_77
+  - first:
+      213: 7983907185893829207
+    second: cave_04_78
+  - first:
+      213: -5449587847313742479
+    second: cave_04_79
+  - first:
+      213: 5257009108920189580
+    second: cave_04_80
+  - first:
+      213: 7602979724581483962
+    second: cave_04_81
+  - first:
+      213: -5048606897949151166
+    second: cave_04_82
+  - first:
+      213: 1565820269616938422
+    second: cave_04_83
+  - first:
+      213: -2021090565817207757
+    second: cave_04_84
+  - first:
+      213: 8818294755212354112
+    second: cave_04_85
+  - first:
+      213: 315507968500689046
+    second: cave_04_86
+  - first:
+      213: -7324272009566943527
+    second: cave_04_87
+  - first:
+      213: -8979876859433974332
+    second: cave_04_88
+  - first:
+      213: -6727722680054641406
+    second: cave_04_89
+  - first:
+      213: -3167358016490039504
+    second: cave_04_90
+  - first:
+      213: 5832485744380904145
+    second: cave_04_91
+  - first:
+      213: 8689764860423091731
+    second: cave_04_92
+  - first:
+      213: 1759132832579669986
+    second: cave_04_93
+  - first:
+      213: 7242735263087106011
+    second: cave_04_94
+  - first:
+      213: -3667432912327173653
+    second: cave_04_95
+  - first:
+      213: 2188771259273457034
+    second: cave_04_96
+  - first:
+      213: 9193657701298625255
+    second: cave_04_97
+  - first:
+      213: -3654428981725386474
+    second: cave_04_98
+  - first:
+      213: 8252515681138711504
+    second: cave_04_99
+  - first:
+      213: -4303524939715398709
+    second: cave_04_100
+  - first:
+      213: 6452580234369028641
+    second: cave_04_101
+  - first:
+      213: 8368176668771826532
+    second: cave_04_102
+  - first:
+      213: -6174034179246823036
+    second: cave_04_103
+  - first:
+      213: 1822604605397898261
+    second: cave_04_104
+  - first:
+      213: -2638473777653660298
+    second: cave_04_105
+  - first:
+      213: -1763202037810137404
+    second: cave_04_106
+  - first:
+      213: -8373820097396707872
+    second: cave_04_107
+  - first:
+      213: -6352834402703913374
+    second: cave_04_108
+  - first:
+      213: -5351647413534870941
+    second: cave_04_109
+  - first:
+      213: -4953268512709746275
+    second: cave_04_110
+  - first:
+      213: 4134851913234496507
+    second: cave_04_111
+  - first:
+      213: -7598076872997311386
+    second: cave_04_112
+  - first:
+      213: -5780174579732039612
+    second: cave_04_113
+  - first:
+      213: 7610600334920330752
+    second: cave_04_114
+  - first:
+      213: 8009944278895229399
+    second: cave_04_115
+  - first:
+      213: -5763544720753442120
+    second: cave_04_116
+  - first:
+      213: 1729896967834350571
+    second: cave_04_117
+  - first:
+      213: -5604458761731704242
+    second: cave_04_118
+  - first:
+      213: 9030718668186198588
+    second: cave_04_119
+  - first:
+      213: -1604190443949629968
+    second: cave_04_120
+  - first:
+      213: 9202529915472207492
+    second: cave_04_121
+  - first:
+      213: 3734626655115876517
+    second: cave_04_122
+  - first:
+      213: 7908657966124572038
+    second: cave_04_123
+  - first:
+      213: 762790104744796085
+    second: cave_04_124
+  - first:
+      213: 2735175040195158000
+    second: cave_04_125
+  - first:
+      213: -7272012743638395661
+    second: cave_04_126
+  - first:
+      213: 5935817132474445554
+    second: cave_04_127
+  - first:
+      213: 2848930032054814383
+    second: cave_04_128
+  - first:
+      213: -2802967018064145757
+    second: cave_04_129
+  - first:
+      213: -6360754416512873341
+    second: cave_04_130
+  - first:
+      213: 5392886121880571485
+    second: cave_04_131
+  - first:
+      213: 6060569567869010927
+    second: cave_04_132
+  - first:
+      213: 835009776392181302
+    second: cave_04_133
+  - first:
+      213: 4237908186203107592
+    second: cave_04_134
+  - first:
+      213: 8383374721542073236
+    second: cave_04_135
+  - first:
+      213: -7721006639422979281
+    second: cave_04_136
+  - first:
+      213: 8175775400906678185
+    second: cave_04_137
+  - first:
+      213: -2222306710974408730
+    second: cave_04_138
+  - first:
+      213: -5240615128254374181
+    second: cave_04_139
+  - first:
+      213: 4948686271851552290
+    second: cave_04_140
+  - first:
+      213: -6766984141612163301
+    second: cave_04_141
+  - first:
+      213: -7967780411783504619
+    second: cave_04_142
+  - first:
+      213: -3769526243971124250
+    second: cave_04_143
+  - first:
+      213: 6623355474111047120
+    second: cave_04_144
+  - first:
+      213: -8763065545028556105
+    second: cave_04_145
+  - first:
+      213: 3687510204153622267
+    second: cave_04_146
+  - first:
+      213: -5614617305627111325
+    second: cave_04_147
+  - first:
+      213: -7782751136409539740
+    second: cave_04_148
+  - first:
+      213: -8446545827971538218
+    second: cave_04_149
+  - first:
+      213: 1963282689303719787
+    second: cave_04_150
+  - first:
+      213: -8098800959378182960
+    second: cave_04_151
+  - first:
+      213: 8873903828111483238
+    second: cave_04_152
+  - first:
+      213: -3648167278021615960
+    second: cave_04_153
+  - first:
+      213: -5066694543949199186
+    second: cave_04_154
+  - first:
+      213: -7612732735072136402
+    second: cave_04_155
+  - first:
+      213: 4661370427601382388
+    second: cave_04_156
+  - first:
+      213: 3634967137286550669
+    second: cave_04_157
+  - first:
+      213: 1003657511180119040
+    second: cave_04_158
+  - first:
+      213: 6252120411822795635
+    second: cave_04_159
+  - first:
+      213: 5277763302722805356
+    second: cave_04_160
+  - first:
+      213: -6806470040175139478
+    second: cave_04_161
+  - first:
+      213: -5779029327570496975
+    second: cave_04_162
+  - first:
+      213: 4080679454502009336
+    second: cave_04_163
+  - first:
+      213: -6413704177327744624
+    second: cave_04_164
+  - first:
+      213: -8378102245039020348
+    second: cave_04_165
+  - first:
+      213: -4095110300087471315
+    second: cave_04_166
+  - first:
+      213: -411296945834931446
+    second: cave_04_167
+  - first:
+      213: 8616068547898958233
+    second: cave_04_168
+  - first:
+      213: 7961025883200688322
+    second: cave_04_169
+  - first:
+      213: -4651628227950650089
+    second: cave_04_170
+  - first:
+      213: -3698755893397996895
+    second: cave_04_171
+  - first:
+      213: 885714555564122341
+    second: cave_04_172
+  - first:
+      213: 1317329816780741790
+    second: cave_04_173
+  - first:
+      213: -6857534908091504798
+    second: cave_04_174
+  - first:
+      213: 1318196065970514083
+    second: cave_04_175
+  - first:
+      213: -8079125140452220283
+    second: cave_04_176
+  - first:
+      213: 5398197144899160885
+    second: cave_04_177
+  - first:
+      213: 3835975107014565442
+    second: cave_04_178
+  - first:
+      213: 5204906533060245226
+    second: cave_04_179
+  - first:
+      213: -1629824109777912592
+    second: cave_04_180
+  - first:
+      213: 7673634866147763923
+    second: cave_04_181
+  - first:
+      213: -1367018711644132421
+    second: cave_04_182
+  - first:
+      213: -4668521411263921699
+    second: cave_04_183
+  - first:
+      213: -1953919497193800137
+    second: cave_04_184
+  - first:
+      213: -6140238091331699036
+    second: cave_04_185
+  - first:
+      213: 7812307714663976895
+    second: cave_04_186
+  - first:
+      213: 4146825179443192956
+    second: cave_04_187
+  - first:
+      213: -3109163589319684019
+    second: cave_04_188
+  - first:
+      213: 8067433351721744144
+    second: cave_04_189
+  - first:
+      213: -7624360872830426665
+    second: cave_04_190
+  - first:
+      213: -2920521045328873166
+    second: cave_04_191
+  - first:
+      213: 5355745129666566673
+    second: cave_04_192
+  - first:
+      213: -762886473532875710
+    second: cave mihai_0
+  - first:
+      213: -1595820566488729369
+    second: cave mihai_1
+  - first:
+      213: 3406535008638369992
+    second: cave mihai_2
+  - first:
+      213: -1317902980544005626
+    second: cave mihai_3
+  - first:
+      213: 6331049904460272740
+    second: cave mihai_4
+  - first:
+      213: -8853579374021570340
+    second: cave mihai_5
+  - first:
+      213: 6096460871174419006
+    second: cave mihai_6
+  - first:
+      213: 1995836299298354272
+    second: cave mihai_7
+  - first:
+      213: -5124432545431356103
+    second: cave mihai_8
+  - first:
+      213: -1064466613925387206
+    second: cave mihai_9
+  - first:
+      213: 8065697683964348363
+    second: cave mihai_10
+  - first:
+      213: -1875984330251226864
+    second: cave mihai_11
+  - first:
+      213: 8602779533927180532
+    second: cave mihai_12
+  - first:
+      213: 4187933489218012060
+    second: cave mihai_13
+  - first:
+      213: -7584921494926757413
+    second: cave mihai_14
+  - first:
+      213: 3148720326025717302
+    second: cave mihai_15
+  - first:
+      213: 512551998565651649
+    second: cave mihai_16
+  - first:
+      213: -2803772563000931988
+    second: cave mihai_17
+  - first:
+      213: -690204243319234603
+    second: cave mihai_18
+  - first:
+      213: -8641505470648713454
+    second: cave mihai_19
+  - first:
+      213: -4121337475844506219
+    second: cave mihai_20
+  - first:
+      213: -2832435675983154690
+    second: cave mihai_21
+  - first:
+      213: -1576415255213751505
+    second: cave mihai_22
+  - first:
+      213: -3007931054902066187
+    second: cave mihai_23
+  - first:
+      213: 5254963611083892401
+    second: cave mihai_24
+  - first:
+      213: -6660184801157074165
+    second: cave mihai_25
+  - first:
+      213: 1897459506517575039
+    second: cave mihai_26
+  - first:
+      213: 2587094414575724542
+    second: cave mihai_27
+  - first:
+      213: -7341766697901984156
+    second: cave mihai_28
+  - first:
+      213: 1134570963674556817
+    second: cave mihai_29
+  - first:
+      213: 4380518735501572935
+    second: cave mihai_30
+  - first:
+      213: 4714454618848883416
+    second: cave mihai_31
+  - first:
+      213: 4221400607393524665
+    second: cave mihai_32
+  - first:
+      213: -7224254093730789675
+    second: cave mihai_33
+  - first:
+      213: 1314363049820031049
+    second: cave mihai_34
+  - first:
+      213: 2096129017516382030
+    second: cave mihai_35
+  - first:
+      213: -3845570171198360418
+    second: cave mihai_36
+  - first:
+      213: -3593780780652436781
+    second: cave mihai_37
+  - first:
+      213: -6060101435420274542
+    second: cave mihai_38
+  - first:
+      213: 7267847809712465992
+    second: cave mihai_39
+  - first:
+      213: 1064305289824689415
+    second: cave mihai_40
+  - first:
+      213: -8840001603260162031
+    second: cave mihai_41
+  - first:
+      213: 8451922957452146467
+    second: cave mihai_42
+  - first:
+      213: 6947241494658566311
+    second: cave mihai_43
+  - first:
+      213: -4515924070373070260
+    second: cave mihai_44
+  - first:
+      213: 7153802986129400993
+    second: cave mihai_45
+  - first:
+      213: 7847174951090701860
+    second: cave mihai_46
+  - first:
+      213: -2630938012773007754
+    second: cave mihai_47
+  - first:
+      213: 2830056004196321973
+    second: cave mihai_48
+  - first:
+      213: 2019422797028826629
+    second: cave mihai_49
+  - first:
+      213: 8345988333436216425
+    second: cave mihai_50
+  - first:
+      213: -3815610461259635633
+    second: cave mihai_51
+  - first:
+      213: 4517756699895180862
+    second: cave mihai_52
+  - first:
+      213: -3185365024732900311
+    second: cave mihai_53
+  - first:
+      213: -4879377555576077803
+    second: cave mihai_54
+  - first:
+      213: -426225995325321950
+    second: cave mihai_55
+  - first:
+      213: -613337712461317374
+    second: cave mihai_56
+  - first:
+      213: 6139721757415536371
+    second: cave mihai_57
+  - first:
+      213: 4518736050883271226
+    second: cave mihai_58
+  - first:
+      213: -6565457831972040152
+    second: cave mihai_59
+  - first:
+      213: 6992477075894607234
+    second: cave mihai_60
+  - first:
+      213: -2675818427639684748
+    second: cave mihai_61
+  - first:
+      213: 2754925587491227423
+    second: cave mihai_62
+  - first:
+      213: 8056151377590226357
+    second: cave mihai_63
+  - first:
+      213: -4320246432126964251
+    second: cave mihai_64
+  - first:
+      213: 6619216263644495614
+    second: cave mihai_65
+  - first:
+      213: -7824651910387460541
+    second: cave mihai_66
+  - first:
+      213: -3711530561818031622
+    second: cave mihai_67
+  - first:
+      213: 5109895505106245644
+    second: cave mihai_68
+  - first:
+      213: -2325315224472278414
+    second: cave mihai_69
+  - first:
+      213: -3311116297838372953
+    second: cave mihai_70
+  - first:
+      213: -7666952944528364543
+    second: cave mihai_71
+  - first:
+      213: 7810403953737945270
+    second: cave mihai_72
+  - first:
+      213: 4091198845153694229
+    second: cave mihai_73
+  - first:
+      213: 7743495910243657691
+    second: cave mihai_74
+  - first:
+      213: 3941228236841786980
+    second: cave mihai_75
+  - first:
+      213: 778096289581079065
+    second: cave mihai_76
+  - first:
+      213: 7610385159501884476
+    second: cave mihai_77
+  - first:
+      213: -1057715148913399286
+    second: cave mihai_78
+  - first:
+      213: 2250691470678615183
+    second: cave mihai_79
+  - first:
+      213: 5580694880622402054
+    second: cave mihai_80
+  - first:
+      213: 3869702637040858903
+    second: cave mihai_81
+  - first:
+      213: 4792997378887460405
+    second: cave mihai_82
+  - first:
+      213: -964589622278323971
+    second: cave mihai_83
+  - first:
+      213: -3543522136024093440
+    second: cave mihai_84
+  - first:
+      213: -2329994318096025887
+    second: cave mihai_85
+  - first:
+      213: -814940680323605882
+    second: cave mihai_86
+  - first:
+      213: -6279998998133557210
+    second: cave mihai_87
+  - first:
+      213: 1000703243174340544
+    second: cave mihai_88
+  - first:
+      213: 378760823088546221
+    second: cave mihai_89
+  - first:
+      213: 1066969520528699333
+    second: cave mihai_90
+  - first:
+      213: 4756303722320600120
+    second: cave mihai_91
+  - first:
+      213: -1018031708374359640
+    second: cave mihai_92
+  - first:
+      213: -8386228726602620061
+    second: cave mihai_93
+  - first:
+      213: -1011134740057345068
+    second: cave mihai_94
+  - first:
+      213: -6530697908388329480
+    second: cave mihai_95
+  - first:
+      213: 8276723752275448605
+    second: cave mihai_96
+  - first:
+      213: -2638668780605864710
+    second: cave mihai_97
+  - first:
+      213: 8135357068890360494
+    second: cave mihai_98
+  - first:
+      213: 8594036440817357603
+    second: cave mihai_99
+  - first:
+      213: 1202042055062873335
+    second: cave mihai_100
+  - first:
+      213: 3761741719289112750
+    second: cave mihai_101
+  - first:
+      213: -6323449164324574037
+    second: cave mihai_102
+  - first:
+      213: 567369857434039544
+    second: cave mihai_103
+  - first:
+      213: 2605866118253307385
+    second: cave mihai_104
+  - first:
+      213: -8073935347195445144
+    second: cave mihai_105
+  - first:
+      213: 2488817018752429006
+    second: cave mihai_106
+  - first:
+      213: 4323211979321862188
+    second: cave mihai_107
+  - first:
+      213: 7989341130478403275
+    second: cave mihai_108
+  - first:
+      213: -7126792961354639730
+    second: cave mihai_109
+  - first:
+      213: -8551552142212887706
+    second: cave mihai_110
+  - first:
+      213: 9035886687006487894
+    second: cave mihai_111
+  - first:
+      213: 6506689832800650703
+    second: cave mihai_112
+  - first:
+      213: -538215247643965308
+    second: cave mihai_113
+  - first:
+      213: -2728486493578545794
+    second: cave mihai_114
+  - first:
+      213: -2658570550428185713
+    second: cave mihai_115
+  - first:
+      213: 5806501806385607138
+    second: cave mihai_116
+  - first:
+      213: -3065895411696372256
+    second: cave mihai_117
+  - first:
+      213: 7909121000634734027
+    second: cave mihai_118
+  - first:
+      213: 6303149134219292466
+    second: cave mihai_119
+  - first:
+      213: -478399702814832657
+    second: cave mihai_120
+  - first:
+      213: 1097010743358406226
+    second: cave mihai_121
+  - first:
+      213: -8229479216736659162
+    second: cave mihai_122
+  - first:
+      213: 1684134598199875854
+    second: cave mihai_123
+  - first:
+      213: -8632923034923021155
+    second: cave mihai_124
+  - first:
+      213: 4353997788510840931
+    second: cave mihai_125
+  - first:
+      213: 8059125592260932722
+    second: cave mihai_126
+  - first:
+      213: 8749165437997292484
+    second: cave mihai_127
+  - first:
+      213: -421771575284569515
+    second: cave mihai_128
+  - first:
+      213: 2689136089118430844
+    second: cave mihai_129
+  - first:
+      213: -1355748401709160415
+    second: cave mihai_130
+  - first:
+      213: 941594226693781809
+    second: cave mihai_131
+  - first:
+      213: -1859508219894107521
+    second: cave mihai_132
+  - first:
+      213: 921615152064431562
+    second: cave mihai_133
+  - first:
+      213: -945574584267647974
+    second: cave mihai_134
+  - first:
+      213: 6216942467847853898
+    second: cave mihai_135
+  - first:
+      213: 42204436739164100
+    second: cave mihai_136
+  - first:
+      213: 2348325990838568909
+    second: cave mihai_137
+  - first:
+      213: 6230289161184008786
+    second: cave mihai_138
+  - first:
+      213: 2222240452113037144
+    second: cave mihai_139
+  - first:
+      213: -329022182925417900
+    second: cave mihai_140
+  - first:
+      213: -8616852271762506815
+    second: cave mihai_141
+  - first:
+      213: -7201048484258158202
+    second: cave mihai_142
+  - first:
+      213: -7556864925980364725
+    second: cave mihai_143
+  - first:
+      213: 7952083833117155640
+    second: cave mihai_144
+  - first:
+      213: 1878399274410283352
+    second: cave mihai_145
+  - first:
+      213: 2333255963868910974
+    second: cave mihai_146
+  - first:
+      213: 6477961210553747716
+    second: cave mihai_147
+  - first:
+      213: 5054636224244315466
+    second: cave mihai_148
+  - first:
+      213: -8779968434248949489
+    second: cave mihai_149
+  - first:
+      213: -8981630808286036552
+    second: cave mihai_150
+  - first:
+      213: -8427108059072738484
+    second: cave mihai_151
+  - first:
+      213: 8816391445735171123
+    second: cave mihai_152
+  - first:
+      213: 2794441331431715826
+    second: cave mihai_153
+  - first:
+      213: -8430152497151530349
+    second: cave mihai_154
+  - first:
+      213: -2556507240200561923
+    second: cave mihai_155
+  - first:
+      213: 967738400348509229
+    second: cave mihai_156
+  - first:
+      213: -8511406760746474301
+    second: cave mihai_157
+  - first:
+      213: 4789399332440904371
+    second: cave mihai_158
+  - first:
+      213: 3230321257783591
+    second: cave mihai_159
+  - first:
+      213: 7007937158481835047
+    second: cave mihai_160
+  - first:
+      213: 2057351520770543067
+    second: cave mihai_161
+  - first:
+      213: -3726438268720917903
+    second: cave mihai_162
+  - first:
+      213: -3180816880481592762
+    second: cave mihai_163
+  - first:
+      213: -6981502440246960377
+    second: cave mihai_164
+  - first:
+      213: -1012930812126562300
+    second: cave mihai_165
+  - first:
+      213: 8475266995777871204
+    second: cave mihai_166
+  - first:
+      213: 4414665183508831894
+    second: cave mihai_167
+  - first:
+      213: 8678857543721969211
+    second: cave mihai_168
+  - first:
+      213: 4515780897195226609
+    second: cave mihai_169
+  - first:
+      213: 9103185844138366308
+    second: cave mihai_170
+  - first:
+      213: 2937973137233605145
+    second: cave mihai_171
+  - first:
+      213: 2061256754381273844
+    second: cave mihai_172
+  - first:
+      213: 182025224636944993
+    second: cave mihai_173
+  - first:
+      213: -2326962082379958870
+    second: cave mihai_174
+  - first:
+      213: -1471330115935691869
+    second: cave mihai_175
+  - first:
+      213: -2398961056047755912
+    second: cave mihai_176
+  - first:
+      213: 4564475609499181949
+    second: cave mihai_177
+  - first:
+      213: 6286530145190391757
+    second: cave mihai_178
+  - first:
+      213: 905359136636864851
+    second: cave mihai_179
+  - first:
+      213: 8144413928744967139
+    second: cave mihai_180
+  - first:
+      213: -4418557252552871624
+    second: cave mihai_181
+  - first:
+      213: -5820038224888738119
+    second: cave mihai_182
+  - first:
+      213: -1274835999780994044
+    second: cave mihai_183
+  - first:
+      213: 3800528771961815521
+    second: cave mihai_184
+  - first:
+      213: 2087536788240277377
+    second: cave mihai_185
+  - first:
+      213: -4271752439641984332
+    second: cave mihai_186
+  - first:
+      213: 8034973890308780401
+    second: cave mihai_187
+  - first:
+      213: 3453763815004565948
+    second: cave mihai_188
+  - first:
+      213: -2328396983446128759
+    second: cave mihai_189
+  - first:
+      213: -6921926063389279055
+    second: cave mihai_190
+  - first:
+      213: -1441873633018986269
+    second: cave mihai_191
+  - first:
+      213: -4919419057741702817
+    second: cave mihai_192
+  - first:
+      213: 3462745043929416070
+    second: cave mihai_193
+  - first:
+      213: 6462732390073126128
+    second: cave mihai_194
+  - first:
+      213: 6030618385994474364
+    second: cave mihai_195
+  - first:
+      213: 8197197068653964979
+    second: cave mihai_196
+  - first:
+      213: -4632891693579938674
+    second: cave mihai_197
+  - first:
+      213: -1265586625436945574
+    second: cave mihai_198
+  - first:
+      213: 5359299672341135143
+    second: cave mihai_199
+  - first:
+      213: -3213299798314767479
+    second: cave mihai_200
+  - first:
+      213: 633614559624236096
+    second: cave mihai_201
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave mihai_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480e52b6ab25e848bbbab0cfb740451
+      internalID: -762886473532875710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d69bca324a77a409ffafc751b49667
+      internalID: -1595820566488729369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cba8d18bafc034e9bd4a116d0a304a
+      internalID: 3406535008638369992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9e03f23c23644595c390669a753de
+      internalID: -1317902980544005626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ebf2fe79ff88e4a887f76ae089ca3b
+      internalID: 6331049904460272740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a00f73b3204dd49a289b98b3b46e6c
+      internalID: -8853579374021570340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a522b33d0c90343963208d61636c82
+      internalID: 6096460871174419006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47effde4ea101b44beb157428f5fb5b
+      internalID: 1995836299298354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f289588a77efb47b3e98a9c00145d0
+      internalID: -5124432545431356103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c5bd1e00774d4d83d7fc47f9dac73
+      internalID: -1064466613925387206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debbc5b756edd6141a8bf7a22d033282
+      internalID: 8065697683964348363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1958da2ee7978274589e52b08f1089bb
+      internalID: -1875984330251226864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaa09a3b5ecdc44c9c5ad94eb32983b
+      internalID: 8602779533927180532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa44fdb57639cd45a64ceeb4dcb101b
+      internalID: 4187933489218012060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7119a0f1f12104d8862a0354ed210b
+      internalID: -7584921494926757413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21dcd31f3b501c4792152df45a1ad16
+      internalID: 3148720326025717302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb7dae387b34146ae87011e796ba29
+      internalID: 512551998565651649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72023081b210f7c4fa84008cac3893ed
+      internalID: -2803772563000931988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3ba6d5b817a1459cf57ff1d083b93
+      internalID: -690204243319234603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ee684cd20df742af1a75523e37d34
+      internalID: -8641505470648713454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb842766650061c419ef793eb6f3cf16
+      internalID: -4121337475844506219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60808243512a0eb4a86d5e86ef128d7f
+      internalID: -2832435675983154690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67448fd0ce4ef34ea9a0f39a189d216
+      internalID: -1576415255213751505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813811b7b6a6a44ab0628629ae2bc86
+      internalID: -3007931054902066187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e3f339d4bb6e47944aff7f64819c3
+      internalID: 5254963611083892401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5cb12fd1e6b134088a66eea1536414
+      internalID: -6660184801157074165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707190909ca9c9c40bb7a201c27450ee
+      internalID: 1897459506517575039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bb195ee5ecf54aac8f8ea052dc751
+      internalID: 2587094414575724542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4d315882bf694b84b16828a17eb44
+      internalID: -7341766697901984156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de7b0f00856814cba8ca797b80c780
+      internalID: 1134570963674556817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da10f24a189e8428c8abc1b5beb9bc
+      internalID: 4380518735501572935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23386e192c487e842a833b3c98902e0b
+      internalID: 4714454618848883416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd54a679ef73d944a9e8a012ef61b55
+      internalID: 4221400607393524665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddc461dd37e3c847b192bf917eb7d36
+      internalID: -7224254093730789675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f00b5a036670b43a9f52f73b5b800c
+      internalID: 1314363049820031049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9d87abc876b349839758d3244cd05
+      internalID: 2096129017516382030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24af0da9ccd964d87872d6c01da0ae
+      internalID: -3845570171198360418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082316d34873bf546ae6019a3f36853f
+      internalID: -3593780780652436781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b383aa6a72bd194f9d3ab5cc35a58b5
+      internalID: -6060101435420274542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70f0c8ec23f2442bebe5c0dda00465
+      internalID: 7267847809712465992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_40
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2073f5a417f0d14095bf2fa8d76345c
+      internalID: 1064305289824689415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f27d03c9249e345b02d3bcf6a1a0be
+      internalID: -8840001603260162031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29727367122e44ebf23b38df1f8467
+      internalID: 8451922957452146467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c73fdf01817540a61da3d7e0ac8b6
+      internalID: 6947241494658566311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb4259189b2975488b468cd8b50c423
+      internalID: -4515924070373070260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114068b5ad2f984ab7c430810f93ab2
+      internalID: 7153802986129400993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d77bc22d0cba44d9124249c1cae217
+      internalID: 7847174951090701860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffcd062455a5304c8b28e9706d6e51f
+      internalID: -2630938012773007754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17168b950aeeaf4b9d04c2861445552
+      internalID: 2830056004196321973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54adc7d16abf449b4917b3ca50e863
+      internalID: 2019422797028826629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28d52fa22b53d45be681873e16137d
+      internalID: 8345988333436216425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84235cadb703a245b36a53d214730d2
+      internalID: -3815610461259635633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10746ac66a7c064bab333083d91becb
+      internalID: 4517756699895180862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc61cff3d2f47145882975046d2d352
+      internalID: -3185365024732900311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8344ae5d3d9ea48a1192051e5c1bc4
+      internalID: -4879377555576077803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83059d06c041aa24785249192ace234a
+      internalID: -426225995325321950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3df5ba79b32c42a259d6048b0d31e
+      internalID: -613337712461317374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_57
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17921d4a5d8301246838220514322ef5
+      internalID: 6139721757415536371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff935b443856a45b7e7698219e8016
+      internalID: 4518736050883271226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe3dd6aceb840a4aaf87dd6d2f1e269
+      internalID: -6565457831972040152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf73ac01ef302d4997ff184edd7bc15
+      internalID: 6992477075894607234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04f6999857cee46b989f32f1cad6b7
+      internalID: -2675818427639684748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66637b64ff5c5d14193417b172c4bb4d
+      internalID: 2754925587491227423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78a82664f98f049b1434f325bee3fc
+      internalID: 8056151377590226357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396463c58fdb55b43a625ee5cb862980
+      internalID: -4320246432126964251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e79aea76af57c42a29364523af53c2
+      internalID: 6619216263644495614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ece01df76025948882132ee8e8034d
+      internalID: -7824651910387460541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfff339431a4b44cbb8f3a5b4bc945e
+      internalID: -3711530561818031622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2b6636e2c5a44091fd5aa984fca6a
+      internalID: 5109895505106245644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adee23d03f86ad4b96b1345ba37b51a
+      internalID: -2325315224472278414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602eb7305a48ae54fb3496d5dc880e6b
+      internalID: -3311116297838372953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327329db4b60484b89639fd44b32d50
+      internalID: -7666952944528364543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936c664d82921845bb413a0e6c1a2c9
+      internalID: 7810403953737945270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb0f2037f0f3c140b3332d40264bad7
+      internalID: 4091198845153694229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd5ffddc2ea7a842a72dcd9a884903f
+      internalID: 7743495910243657691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_75
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e26916b8ae8b4c43b10fef33342d95a
+      internalID: 3941228236841786980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d9bc13b3e2c24f8b135377c5be3c0
+      internalID: 778096289581079065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69c0c2a34378f43b37335ebd89bce7
+      internalID: 7610385159501884476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31646e16c56a90945a1e0ec796c78388
+      internalID: -1057715148913399286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b16144f6c98b74db34f62558f42760
+      internalID: 2250691470678615183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07952f17ee1210f428f464f70594dc73
+      internalID: 5580694880622402054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494e2ebfe26fa94c856569b47153f29
+      internalID: 3869702637040858903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad636a71e4392547bf252e8cbedba0c
+      internalID: 4792997378887460405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c8f23eae6b1949a1d6f029d7c131d
+      internalID: -964589622278323971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523806538d3cb2e4ea02f5afbfad7d63
+      internalID: -3543522136024093440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392ddd7b34c8e6459055cdaf362c28a
+      internalID: -2329994318096025887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a2fcd6ef6fee42a84c845ac50d5be
+      internalID: -814940680323605882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef2af18a8d0d5458987c6c4262bde4
+      internalID: -6279998998133557210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d75d7664ab4a468e47252c5746ec0
+      internalID: 1000703243174340544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46404e107442e48bc82f07032405ed
+      internalID: 378760823088546221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4100269fc36b40beea7f498cc3bc5
+      internalID: 1066969520528699333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3299d13125354187c73da78ebebe6
+      internalID: 4756303722320600120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0f0e49f9824641b159385bb36bb2f
+      internalID: -1018031708374359640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d073295bc106d824393635a5fb81afd8
+      internalID: -8386228726602620061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6079aec63a6bd5b49a10340f7f264a2c
+      internalID: -1011134740057345068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d42fa720f739d49b96fea1dc0cdc61
+      internalID: -6530697908388329480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c34c85083ad404cb5fc119c9eb69ae
+      internalID: 8276723752275448605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff86aac3c60ccb4ab85cb625c32d745
+      internalID: -2638668780605864710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb393065167e16479f3d11b3abc8376
+      internalID: 8135357068890360494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cdb4b1e622ea42acf2ebb5235da7c
+      internalID: 8594036440817357603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8cc92fe3dbd4246954d08e76269943
+      internalID: 1202042055062873335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea16535dd1233b46a8e7e34677ee459
+      internalID: 3761741719289112750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cd0ff03fa2404495f107907826268
+      internalID: -6323449164324574037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5922bd945bd1349b2415dd6f540b9d
+      internalID: 567369857434039544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562c66e2093e12f4788b6baefbb0eac9
+      internalID: 2605866118253307385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82175d0ed2640c847a69b278e9af7832
+      internalID: -8073935347195445144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24e2b4ba156e44da86402b725821a4
+      internalID: 2488817018752429006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b4abbd5e88474fb4454966ba70832
+      internalID: 4323211979321862188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65850497d7da4894a96cb10fc7501dfc
+      internalID: 7989341130478403275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed19a40a392c44d85b5c61a9e1e11a
+      internalID: -7126792961354639730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b39f6064b908a4fa147ff89d4edfa3
+      internalID: -8551552142212887706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988529ba5e799ee42a31bedb82eb5c9f
+      internalID: 9035886687006487894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85100b8bab00ed6499a87f67a8cc3254
+      internalID: 6506689832800650703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5748620671a246b2a3a604756087e
+      internalID: -538215247643965308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42f3f1806239946b9b10c07c0e201a
+      internalID: -2728486493578545794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c750763347103e40b79a4a929283d53
+      internalID: -2658570550428185713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba065890466b1743bdb3cf2ce7c684e
+      internalID: 5806501806385607138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa4b213fcb6198478ed9049bf294858
+      internalID: -3065895411696372256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a2eb49001c504d86acecc1926836e
+      internalID: 7909121000634734027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9bcd448079ad43a857ea71f562674
+      internalID: 6303149134219292466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_120
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c833fe525feb4fb9f4253e5ecaabb
+      internalID: -478399702814832657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3bde7ff009c8b44a746c7c95001fdb
+      internalID: 1097010743358406226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_122
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91640891af21ee4418ba6d0ad05a71af
+      internalID: -8229479216736659162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2c0d83a334b846b8daa3d46d476ea
+      internalID: 1684134598199875854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35943c5398013c64ca9c42e742a61c02
+      internalID: -8632923034923021155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15704a00755bf9c4ab8aeaa2aef0ab89
+      internalID: 4353997788510840931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_126
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fe945090e2d847960719c289662c4
+      internalID: 8059125592260932722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4eb6256c60d494b91bbc7a840f05a2
+      internalID: 8749165437997292484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc633880df73db4e9a481e839ef0cf3
+      internalID: -421771575284569515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d58bc33ec1614dbf43105aa6f24b1
+      internalID: 2689136089118430844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e70fc9763fcbd4cb21bf17b1942702
+      internalID: -1355748401709160415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fcb98ca2949f489ea5f508be1abf0
+      internalID: 941594226693781809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ce8ea53b6b264aaa9e30279c18d57
+      internalID: -1859508219894107521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17816ce643fe4074399450e23cbe90ba
+      internalID: 921615152064431562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dad0b6dd3cf3947ada7724b4a58ba8
+      internalID: -945574584267647974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07885ccf5a924e4468ba3830ad0c6b73
+      internalID: 6216942467847853898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db7fb2738a1ee48b7629d267f6912a
+      internalID: 42204436739164100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31afd99a83a30f4d8d34319182ce2a1
+      internalID: 2348325990838568909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071336bfa1d91a4091e5b76afc3c632
+      internalID: 6230289161184008786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c626cc1a32aae43bfa8df9524a478d
+      internalID: 2222240452113037144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_140
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1199f07c4864459c1244963afc008
+      internalID: -329022182925417900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1128d0d6301c1419aa0d49c7f04860
+      internalID: -8616852271762506815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e43df37c7d694da8a180f4be9004e
+      internalID: -7201048484258158202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f11351ba06054eaa12759d41df31b
+      internalID: -7556864925980364725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_144
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc26881e9d06f341a9d8648db43873c
+      internalID: 7952083833117155640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a524fbce4ad4646bc3f28eaee2069d
+      internalID: 1878399274410283352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9087c50ce02744ac45dfc85efc6cf
+      internalID: 2333255963868910974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786adcb7fca6b7c4c9c812e522108299
+      internalID: 6477961210553747716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_148
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e21ea61fe35d14c865e9eb8e740d36
+      internalID: 5054636224244315466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_149
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc1cef2a2949e42a098a99bfd9f621
+      internalID: -8779968434248949489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d00c9d0cc67046a7987ac7dc6365b
+      internalID: -8981630808286036552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90fc2dee2b79b7468a1643b07578a96
+      internalID: -8427108059072738484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ac3443e080b84bb5e7ad9f5736a94
+      internalID: 8816391445735171123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b7c426fe204b641a29b7300a7a5da6
+      internalID: 2794441331431715826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adcf829b8df58c489926341edb04fe8
+      internalID: -8430152497151530349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdbb90a0af3f247a059b609b1bfbe2
+      internalID: -2556507240200561923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bd750d270f114d856accf9d1a4892
+      internalID: 967738400348509229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1604cb41960b3824cb7e1a1397d82726
+      internalID: -8511406760746474301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94c3b5332129f4eb929593df059d9a
+      internalID: 4789399332440904371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f083024e285174689fff549d77453c
+      internalID: 3230321257783591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0448a60f4986e32489065bb6d046185d
+      internalID: 7007937158481835047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ee46b603020604b8643972a3b19fee
+      internalID: 2057351520770543067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c5da2c50042345a0d966bfdb13050
+      internalID: -3726438268720917903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5cb05aba151094db5b4e0bf8ac72ff
+      internalID: -3180816880481592762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d86f1f39ab4243b4cdbc4ae58e2c5
+      internalID: -6981502440246960377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_165
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc201c3eaec9e40498010e96842ca6f3
+      internalID: -1012930812126562300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60750f65cd3387f4bbcfe8b865356384
+      internalID: 8475266995777871204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52313352dabd4694f8ea3baf2918812c
+      internalID: 4414665183508831894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_168
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccabbe16cfa694eb3e678287ea87d4
+      internalID: 8678857543721969211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cda19177af2241ae0c28fa7e0ce85
+      internalID: 4515780897195226609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_170
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ed4db3152c6b42befe542ae87e982
+      internalID: 9103185844138366308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_171
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542f633657866a4fa0f1ed64041c5d2
+      internalID: 2937973137233605145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90cc6090d7ab04ab5e7b9c0c753437
+      internalID: 2061256754381273844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_173
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6565fb7c907b646ba3c229baf0aefd
+      internalID: 182025224636944993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_174
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1fc274341ed942a28056ab8c6290a
+      internalID: -2326962082379958870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_175
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3da03c6b4f544f971228dd94b3ff0
+      internalID: -1471330115935691869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd203e6934fa7324ba97087449f15be2
+      internalID: -2398961056047755912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a3dbc6eea02941afc8fbeed8f8e82
+      internalID: 4564475609499181949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85312fff5b4642640a82aee562d1be03
+      internalID: 6286530145190391757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045ecb13b39dc64784494dd2c242208
+      internalID: 905359136636864851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e65745340c4a479a23e16fffb51c3
+      internalID: 8144413928744967139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6de974c97a67a41b80dc800a101f5a
+      internalID: -4418557252552871624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba91fa2a71989e478f036fe650e5d35
+      internalID: -5820038224888738119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224015336bd29d24fbb35dbdab578403
+      internalID: -1274835999780994044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a55467a5b1b1459d3636160902d70
+      internalID: 3800528771961815521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4262150aea255f44b8d50417aacc45f
+      internalID: 2087536788240277377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0827cb60c5e1443b1ae6adc66c7512
+      internalID: -4271752439641984332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b8a5d3a2f00e47b72c940cb0cb78b
+      internalID: 8034973890308780401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3eb4bec89a4e48817b8e5470541e2
+      internalID: 3453763815004565948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f16d2be3baa8249bb06d31b9940a22
+      internalID: -2328396983446128759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4549584b8a274046885db193d06b367
+      internalID: -6921926063389279055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b882cb07c4fd419b8ecface46a628
+      internalID: -1441873633018986269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_192
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66413d36100734cac353259a96dd12
+      internalID: -4919419057741702817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_193
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71a789ef344be4fba1beae7677bae2
+      internalID: 3462745043929416070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ccb24c314fa045a2bf47918552c6a
+      internalID: 6462732390073126128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_195
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21ed4120fb73d4a86faf1d1979f434
+      internalID: 6030618385994474364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3741db981ecdd3d4aa3bad177d1164f5
+      internalID: 8197197068653964979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_197
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08407ace3359d5488c0332217a3f5fe
+      internalID: -4632891693579938674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_198
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4235cd3bc0d2c145ab451a9983b510a
+      internalID: -1265586625436945574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_199
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215caa1105aaba44a831334c8c950294
+      internalID: 5359299672341135143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave mihai_200
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa660538cea7654791a5eabd76aba94
+      internalID: -3213299798314767479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
